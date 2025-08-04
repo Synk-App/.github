@@ -1,1 +1,1 @@
-# .github
+![Synk logo](./assets/logo.png)
