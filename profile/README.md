@@ -1,4 +1,4 @@
-![Synk logo](./assets/logo.png)
+![Synk logo](../assets/logo.png)
 
 # Links
 
